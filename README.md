@@ -1,11 +1,6 @@
 ## Overview
-Repository with preconfigured maven project with junit5 configuration
-
-## Building
-...
-
-## Troubleshooting
-...
+Домашнее задание к занятию 1.3: Поведенческие шаблоны. Command, CoR, Observer, Iterator.  
+Бесконечная итераци
 
 ## Release Notes
 Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
